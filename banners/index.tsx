@@ -1,16 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Avatar from "./Avatar"
+import Banner from "./Banner"
 
 function App() {
   return (
-    <>
-      <Avatar src="./images/bob.jpg" alt="Bob Ziroll" />
-      <br />
-      <Avatar>BZ</Avatar>
-      <br />
-      <Avatar />
-    </>
+      <Banner variant="success">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum similique veniam.</Banner>
   )
 }
 

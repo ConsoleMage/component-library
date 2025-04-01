@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: #2F2F2F;
+    background-color: #eeeeee;
 }
 
 .avatar {
@@ -102,4 +102,8 @@ background colors for the extra credit
 .neutral {
     background-color: #EFF6FF;
     color: #1C51B9;
+}
+
+p > span {
+    display: block;
 }
