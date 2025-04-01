@@ -28,7 +28,7 @@ p > span {
     padding: 16px;
     gap: 12px;
     width: 896px;
-    height: 80px;
+    height: auto;
 }
 
 .success {
