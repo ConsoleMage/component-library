@@ -34,20 +34,26 @@ body {
     text-align: center;
 }
 
-.cite-name {
+.cite {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0%;
     text-align: center;
+}
+
+.name {
     color: #111827;
 }
 
-.cite-position {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0%;
-    text-align: center;
+.position {
     color: #6B7280;
+}
+
+.divider {
+    width: 20px;
+    height: 20px;
 }
