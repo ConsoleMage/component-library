@@ -15,7 +15,7 @@ Having worked through all of that, I think I could still improve by refactoring 
 ![Screenshot_3-4-2025_135844_component-library-banners netlify app](https://github.com/user-attachments/assets/56d5c53c-376a-439e-ba92-3b5522d5bd2a)
 
 ### [Cards - https://component-library-cards.netlify.app/]
-  ![Screenshot_3-4-2025_1404_component-library-cards netlify app](https://github.com/user-attachments/assets/499ab891-ef05-469b-a4b7-98cdf6ef689d)
+![Screenshot_3-4-2025_1404_component-library-cards netlify app](https://github.com/user-attachments/assets/ab46df48-cf0a-40fe-a81b-cfb2cf29ba7e)
 
 ### [Testimonials - https://component-library-testimonials.netlify.app/]
 ![Screenshot_3-4-2025_14253_component-library-testimonials netlify app](https://github.com/user-attachments/assets/88927ef6-0eeb-4c3d-a102-d2feda97aff5)
