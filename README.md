@@ -1,5 +1,5 @@
 # Solo Project Component Library
-Install the dependencies and run the project
+
 ```
 1. Badges
 2. Banners
@@ -11,7 +11,7 @@ Install the dependencies and run the project
 - [Cards](https://component-library-cards.netlify.app/)
 - [Testimonials](https://component-library-testimonials.netlify.app/)
 
-  ## Thoughts
+  # Thoughts
   
 This was an interesting challenge—learning how to use React dependencies in my local environment. I had some trouble setting up the basic structure of the project, but after resolving that, I had to figure out why `.js` wasn't compiling properly during runtime. It turned out to be related to the cloud service environment's special configuration.
 
