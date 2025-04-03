@@ -4,7 +4,7 @@ Install the dependencies and run the project
 1. Badges
 2. Banners
 3. Cards
-4  Testimonials
+4. Testimonials
 ```
 - [Badges](https://component-library-badges.netlify.app/)
 - [Banners](https://component-library-banners.netlify.app/)
