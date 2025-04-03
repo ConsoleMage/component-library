@@ -16,7 +16,7 @@ const Banner: React.FC<BannerProps> = ({ children, variant, ...rest }) => {
       return (
         <div className={allClasses}>
           <div>
-            <img src="./dist/assets/img/Check circle.png" alt="" />
+            <img src="./assets/img/Check circle.png" alt="" />
           </div>
           <div>
             <p>
@@ -30,7 +30,7 @@ const Banner: React.FC<BannerProps> = ({ children, variant, ...rest }) => {
       return (
         <div className={allClasses}>
           <div>
-            <img src="./dist/assets/img/Exclamation.png" alt="" />
+            <img src="./assets/img/Exclamation.png" alt="" />
           </div>
           <div>
             <p>
