@@ -1,6 +1,6 @@
 # Solo Project Component Library
 
-A solo project challenge from Scrimba, completed from scratch. The task was to build reusable components in React based on a provided Figma design file.
+A solo project from Scrimba, completed from scratch. The task was to build reusable components in React based on a provided Figma design file.
 
 This was an interesting challenge—learning how to use React dependencies in my local environment. I had some trouble setting up the basic structure of the project, but after resolving that, I had to figure out why `.js` wasn't compiling properly during runtime. It turned out to be related to the cloud service environment's special configuration.
 
