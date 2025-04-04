@@ -18,4 +18,4 @@ Having worked through all of that, I think I could still improve by refactoring 
 ![Screenshot_4-4-2025_83056_localhost](https://github.com/user-attachments/assets/4414f298-0173-4818-acf6-d95280f63d66)
 
 ### [Testimonials - https://component-library-testimonials.netlify.app/]
-![Screenshot_3-4-2025_14253_component-library-testimonials netlify app](https://github.com/user-attachments/assets/88927ef6-0eeb-4c3d-a102-d2feda97aff5)
+![Screenshot_4-4-2025_9458_localhost](https://github.com/user-attachments/assets/d1dbafd6-6417-4b2c-a8a2-38786bfecc57)
