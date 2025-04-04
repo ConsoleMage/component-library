@@ -49,7 +49,7 @@ body {
 }
 
 .icon svg {
-    transform: translate(-50%, 0); 
+    transform: translate(-50%, 0);
 }
 
 .comma {
@@ -85,7 +85,6 @@ body {
 }
 
 /* No image */
-
 
 .logo {
     width: 180px;
