@@ -9,6 +9,14 @@ body {
     font-family: 'Inter', 'Arial', sans-serif;
 }
 
+.img-testimonial {
+    position: relative;
+    margin: 20px auto 0;
+    width: 1358px;
+    height: 400px;
+    background-color: #2545B8;
+}
+
 .testimonial {
     display: flex;
     flex-direction: column;
@@ -21,17 +29,10 @@ body {
 
 /* With image */
 
-.img-testimonial {
-    margin: 20px auto 0;
-    width: 1358px;
-    height: 400px;
-    background-color: #2545B8;
-}
-
 .img {
     position: absolute;
-    top: 1%;
-    left: 15%;
+    top: -3%;
+    left: 1.1%;
     width: 384px;
     height: 464px;
     border-radius: 12px;
@@ -84,6 +85,7 @@ body {
 }
 
 /* No image */
+
 
 .logo {
     width: 180px;
